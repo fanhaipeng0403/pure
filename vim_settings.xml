@@ -3,30 +3,67 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/flask/models.py" timestamp="1483883016398">
-        <mark key="[" line="8" column="33" />
+      <file name="/Python Console" timestamp="1483883761893">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/flask/models.py" timestamp="1483883765338">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="12" />
         <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluKCkK</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluKCkK</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgVXNlcigpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB1c2VyX2lkLCB1c2VyX25hbWUpOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJfaWQgPSB1c2VyX2lkCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJfbmFtZSA9IHVzZXJfbmFtCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>p</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
