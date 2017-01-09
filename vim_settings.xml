@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/&lt;Generic&gt; Fragment (models.py:0).sql" timestamp="1483936541692">
@@ -9,18 +9,18 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1483937833211">
         <mark key="'" line="933" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1483950703889">
+      <file name="/Python Console" timestamp="1483959789197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1483946940960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/app.py" timestamp="1483955262410">
-        <mark key="'" line="9" column="50" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/flask/app.py" timestamp="1483958710079">
+        <mark key="'" line="10" column="19" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="71" />
+        <mark key="." line="10" column="57" />
+        <mark key="^" line="9" column="71" />
       </file>
       <file name="$USER_HOME$/flask/models.py" timestamp="1483953115591">
         <mark key="[" line="9" column="0" />
@@ -33,11 +33,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/flask/test.py" timestamp="1483949703006">
+      <file name="$USER_HOME$/flask/test.py" timestamp="1483957807626">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="6" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/flask/index1.html" timestamp="1483940672698">
         <mark key="[" line="7" column="0" />
@@ -55,7 +55,6 @@
       <jump line="933" column="0" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
       <jump line="0" column="0" filename="$USER_HOME$/flask/models.py" />
       <jump line="12" column="0" filename="$USER_HOME$/flask/models.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="5" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="32" column="4" filename="$USER_HOME$/flask/app.py" />
       <jump line="28" column="1" filename="$USER_HOME$/flask/app.py" />
@@ -68,10 +67,12 @@
       <jump line="26" column="26" filename="$USER_HOME$/flask/app.py" />
       <jump line="31" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="10" column="50" filename="$USER_HOME$/flask/app.py" />
+      <jump line="13" column="19" filename="$USER_HOME$/flask/app.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/flask/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">b3V0ZSgnL3VzZXJzLzxpZD4nKQ==</text>
@@ -80,34 +81,34 @@
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>app</text>
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCgpkZWYgaGVsbG9fd29ybGQoKToKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLCBjb250ZW50PWNvbnRlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW51bWVyYXRlCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGNoYWluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgCg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2hhaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB6b3BlLmludGVyZmFjZS5jb21tb24udGVzdHMuYmFzZW1hcHBpbmcgaW1wb3J0IHRlc3RfaXRlbXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwCg==</text>
+        <text encoding="base64">dGVzdF9pdGVtcygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCg==</text>
+        <text encoding="base64">Y29sbGVjdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
@@ -173,6 +174,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
