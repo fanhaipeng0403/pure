@@ -6,11 +6,9 @@
       <file name="/Python Console" timestamp="1483926136399">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/app.py" timestamp="1483891963708">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/flask/app.py" timestamp="1483929001769">
+        <mark key="'" line="38" column="4" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/flask/models.py" timestamp="1483885805842">
         <mark key="[" line="8" column="33" />
@@ -24,41 +22,55 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/flask/test.py" timestamp="1483928851945">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/flask/models.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="38" column="4" filename="$USER_HOME$/flask/app.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/flask/app.py" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLGNvbnRlbnQ9Y29udGVudCkK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">cHJpbnQgMQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLGNvbnRlbnQ9Y29udGVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGRkZGRkZAo=</text>
+        <text encoding="base64">ICAgIHByaW50IGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zgo=</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYW5nZSgpCg==</text>
+        <text encoding="base64">ZGRkZGRkZAo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -80,6 +92,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
