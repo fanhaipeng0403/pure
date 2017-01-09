@@ -1,12 +1,12 @@
 <scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-01-08T22:53:18</property>
+    <property name="created">2017-01-08T19:40:31</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-08T23:08:13</property>
+    <property name="modified">2017-01-08T20:13:01</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
