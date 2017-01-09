@@ -9,19 +9,23 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1483937833211">
         <mark key="'" line="933" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1483938794204">
+      <file name="/Python Console" timestamp="1483950703889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/app.py" timestamp="1483935027347">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/fragment.py" timestamp="1483946940960">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/models.py" timestamp="1483938849414">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="8" />
-        <mark key="." line="11" column="8" />
-        <mark key="^" line="11" column="8" />
+      <file name="$USER_HOME$/flask/app.py" timestamp="1483953519522">
+        <mark key="'" line="10" column="50" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/flask/models.py" timestamp="1483953115591">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/flask/index.html" timestamp="1483886578917">
         <mark key="[" line="0" column="0" />
@@ -29,71 +33,104 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/flask/test.py" timestamp="1483928851945">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/flask/test.py" timestamp="1483949703006">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/flask/index1.html" timestamp="1483940672698">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="6" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="38" column="4" filename="$USER_HOME$/flask/app.py" />
       <jump line="7" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="37" column="0" filename="$USER_HOME$/flask/app.py" />
-      <jump line="17" column="1" filename="$USER_HOME$/flask/app.py" />
       <jump line="10" column="0" filename="$USER_HOME$/flask/models.py" />
       <jump line="933" column="0" filename="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" />
       <jump line="0" column="0" filename="$USER_HOME$/flask/models.py" />
       <jump line="12" column="0" filename="$USER_HOME$/flask/models.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/flask/app.py" />
+      <jump line="28" column="1" filename="$USER_HOME$/flask/app.py" />
+      <jump line="22" column="1" filename="$USER_HOME$/flask/app.py" />
+      <jump line="17" column="1" filename="$USER_HOME$/flask/app.py" />
+      <jump line="8" column="1" filename="$USER_HOME$/flask/app.py" />
+      <jump line="12" column="26" filename="$USER_HOME$/flask/app.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/flask/app.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="26" column="26" filename="$USER_HOME$/flask/app.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="10" column="50" filename="$USER_HOME$/flask/app.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICIiIgogICAgOnBhcmFtIGEKICAgIDp0eXBlIGEgOiBpbnQKICAgIDpyZXR1cm46CiAgICAiIiIKIA==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSg1KToK</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>i</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmFyID0gMSAvIDAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXJfbmFtZSA9IHVzZXJfbmFtZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAxMTExCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmluMSAxKzIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IHVzZXJfaWQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAxMgo=</text>
+        <text encoding="base64">b3V0ZSgnL3VzZXJzLzxpZD4nKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">b3V0ZSgnL3VzZXJzLzxpZD4nKQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">emlwCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgiaW5kZXguaHRtbCIsIGNvbnRlbnQ9Y29udGVudCkK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgogICAgcmV0dXJuIHJlbmRlcl90ZW1wbGF0ZSgiaW5kZXguaHRtbCIsIGNvbnRlbnQ9Y29udGVudCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbGxlY3Rpb25zCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZW51bWVyYXRlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZW51bWVyYXRlKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCmRlZiBoZWxsb193b3JsZCgpOgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/app/apa</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-replace>apa</last-replace>
+      <last-substitute>app</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>app</entry>
+        <entry>s</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/app/apa</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -121,6 +158,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
