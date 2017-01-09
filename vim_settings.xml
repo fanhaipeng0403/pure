@@ -3,17 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1483926136399">
+      <file name="/Python Console" timestamp="1483932261255">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/app.py" timestamp="1483929001769">
-        <mark key="'" line="38" column="4" />
+      <file name="$USER_HOME$/flask/app.py" timestamp="1483932236050">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/flask/models.py" timestamp="1483885805842">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/flask/models.py" timestamp="1483932102379">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="9" column="7" />
       </file>
       <file name="$USER_HOME$/flask/index.html" timestamp="1483886578917">
@@ -33,47 +36,47 @@
       <jump line="8" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="6" column="0" filename="$USER_HOME$/flask/app.py" />
-      <jump line="0" column="20" filename="$USER_HOME$/flask/models.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="38" column="4" filename="$USER_HOME$/flask/app.py" />
       <jump line="7" column="0" filename="$USER_HOME$/flask/app.py" />
+      <jump line="0" column="20" filename="$USER_HOME$/flask/models.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/flask/app.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLGNvbnRlbnQ9Y29udGVudCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgMQo=</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLGNvbnRlbnQ9Y29udGVudCkK</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aWkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQgMQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkZGRkZAo=</text>
+        <text encoding="base64">aWkK</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
@@ -101,6 +104,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
