@@ -8,6 +8,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
@@ -15,6 +16,9 @@
   </action>
   <action id="EditorEscape" />
   <action id="ExportToTextFile" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="escape" />
@@ -24,9 +28,7 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="OverrideMethods" />
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl q" />
-    <mouse-shortcut keystroke="alt button2" />
+  <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="ReformatCode">
@@ -37,6 +39,14 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -56,4 +66,11 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="VimChangeReplace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
 </keymap>
