@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="EditorContextInfo">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="EditorEscape" />
   <action id="ExportToTextFile" />
   <action id="FindNext">
@@ -30,6 +33,10 @@
   <action id="OverrideMethods" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -67,7 +74,6 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.Log.ShowTooltip">
-    <keyboard-shortcut first-keystroke="ctrl q" />
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="VimChangeReplace">
