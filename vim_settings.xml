@@ -12,10 +12,10 @@
       <file name="/Dummy.txt" timestamp="1483972575091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1484019294997">
+      <file name="/Python Console" timestamp="1484501068591">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1483946940960">
+      <file name="/fragment.py" timestamp="1484501298036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/flask/app.py" timestamp="1484019307583">
@@ -23,6 +23,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484500491267">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/flask/models.py" timestamp="1483953115591">
         <mark key="[" line="9" column="0" />
