@@ -12,6 +12,9 @@
       <file name="/Dummy.txt" timestamp="1483972575091">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1484833818404">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1484501298036">
         <mark key="[" line="0" column="0" />
       </file>
@@ -27,12 +30,14 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/spider.py" timestamp="1484635710643">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="34" />
-        <mark key="^" line="26" column="34" />
-        <mark key="." line="26" column="34" />
+      <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
+        <mark key="'" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/spider.py" timestamp="1484838007649">
+        <mark key="'" line="31" column="3" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/flask/models.py" timestamp="1483953115591">
         <mark key="[" line="9" column="0" />
@@ -107,14 +112,21 @@
       <jump line="57" column="39" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
       <jump line="37" column="7" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
       <jump line="30" column="27" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
       <jump line="1579" column="6" filename="$USER_HOME$/PycharmProjects/untitled/1.html" />
       <jump line="1541" column="4" filename="$USER_HOME$/PycharmProjects/untitled/1.html" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/untitled/1.html" />
+      <jump line="68" column="0" filename="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="35" column="17" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="25" column="27" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="21" column="21" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="27" column="24" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>DOCTYPE</text>
@@ -122,35 +134,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QGFwcC5yb3V0ZSgnLycpCgpkZWYgaGVsbG9fd29ybGQoKToKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoImluZGV4Lmh0bWwiLCBjb250ZW50PWNvbnRlbnQpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZwID0gb3Blbihwb3NpdGlvbiArIHN0cihpKSArICcuanBnJywgJ3diJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">cG9zaXRpb25fZW5kID0gJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGhlYWQ+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGh0bWwgbGFuZz0iZW4iPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PCEgaHRtbD4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoNSk6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlucHV0KCdmZmYgJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">ZGVmIGFjY291cm50X2xvZ2luKCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
