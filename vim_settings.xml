@@ -52,8 +52,8 @@
       <file name="/manage.py@mook" timestamp="1485698316195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485698306442">
-        <mark key="'" line="72" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485699826781">
+        <mark key="'" line="33" column="17" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="48" />
         <mark key="." line="17" column="48" />
@@ -163,6 +163,7 @@
       <jump line="121" column="2" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="30" column="9" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="71" column="20" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
+      <jump line="33" column="17" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -1,15 +1,16 @@
-<scheme name="myfavourite1" version="142" parent_scheme="Darcula">
+<scheme name="console_fonts" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-01-08T20:42:04</property>
+    <property name="created">2017-01-29T22:18:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-29T22:23:30</property>
-    <property name="originalScheme">Monokai copy</property>
+    <property name="modified">2017-01-29T22:21:05</property>
+    <property name="originalScheme">myfavourite1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
