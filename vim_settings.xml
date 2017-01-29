@@ -9,7 +9,7 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1484586415064">
         <mark key="'" line="933" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485700290952">
+      <file name="/Dummy.txt" timestamp="1485702012420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1485674060228">
@@ -49,8 +49,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="/manage.py@mook" timestamp="1485698316195">
+      <file name="/manage.py@mook" timestamp="1485702959269">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485699826781">
         <mark key="'" line="33" column="17" />
