@@ -1,4 +1,7 @@
 <keymap version="1" name="self_keymap" parent="Default for XWin">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
   <action id="$TranslateAndReplace" />
   <action id="AddToFavoritesPopup">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -67,6 +70,10 @@
   </action>
   <action id="ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />

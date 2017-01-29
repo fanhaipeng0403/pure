@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1483972575091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1485084509559">
+      <file name="/Python Console" timestamp="1485674060228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -36,7 +36,10 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/untitled/urls.py" timestamp="1485664546786" />
+      <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485673991689" />
+      <file name="/Django Console" timestamp="1485673865125">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
         <mark key="'" line="68" column="0" />
       </file>
