@@ -49,15 +49,15 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="/manage.py@mook" timestamp="1485696198753">
+      <file name="/manage.py@mook" timestamp="1485698316195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485696107530">
-        <mark key="'" line="124" column="2" />
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="27" />
-        <mark key="." line="83" column="27" />
-        <mark key="^" line="83" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485698306442">
+        <mark key="'" line="72" column="20" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
       </file>
       <file name="/Django Console" timestamp="1485694343593">
         <mark key="[" line="0" column="0" />
@@ -161,6 +161,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/.pyenv/versions/2.6.6/lib/python2.6/bsddb/dbrecio.py" />
       <jump line="10" column="0" filename="$USER_HOME$/PycharmProjects/mook/manage.py" />
       <jump line="121" column="2" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
+      <jump line="30" column="9" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
+      <jump line="71" column="20" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -170,7 +172,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
+        <text>static</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnUEFTU1dPUkQnOiBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICdkYi5zcWxpdGUzJyksCg==</text>
@@ -207,9 +209,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-search>static</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-pattern>static</last-pattern>
       <last-replace>apa</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -220,6 +222,7 @@
         <entry>app</entry>
         <entry>s</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry>static</entry>
       </history-search>
       <history-cmd>
         <entry>s/app/apa</entry>
