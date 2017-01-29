@@ -36,6 +36,7 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/untitled/untitled/urls.py" timestamp="1485664546786" />
       <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
         <mark key="'" line="68" column="0" />
       </file>
@@ -74,7 +75,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mook_django/mook_django/urls.py" timestamp="1485663228880" />
     </filemarks>
     <jumps>
       <jump line="38" column="4" filename="$USER_HOME$/flask/app.py" />
