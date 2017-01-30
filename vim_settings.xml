@@ -9,14 +9,45 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1484586415064">
         <mark key="'" line="933" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485702012420">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1485707386825">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1484501298036">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1485743698070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mook/templates/form.html" timestamp="1485695748205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mook/.git/info/exclude" timestamp="1485744214964" />
+      <file name="/Django Console" timestamp="1485694343593">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
+        <mark key="'" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485707102003">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/flask/index.html" timestamp="1483886578917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1485745063016">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/2.6.6/lib/python2.6/bsddb/dbrecio.py" timestamp="1485084864511">
         <mark key="'" line="1" column="0" />
@@ -28,20 +59,11 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1484501298036">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/flask/app.py" timestamp="1484019307583">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/templates/form.html" timestamp="1485695748205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="6" />
-        <mark key="." line="43" column="6" />
-        <mark key="^" line="43" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
@@ -55,6 +77,12 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mook/mook/settings.py" timestamp="1485740857607">
         <mark key="'" line="121" column="49" />
         <mark key="[" line="17" column="0" />
@@ -62,40 +90,17 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="121" column="46" />
       </file>
-      <file name="/Django Console" timestamp="1485694343593">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/mook/mook/urls.py" timestamp="1485707433192">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="27" />
         <mark key="^" line="21" column="27" />
         <mark key="." line="21" column="27" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
-        <mark key="'" line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485707102003">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="43" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/spider.py" timestamp="1484838007649">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/flask/models.py" timestamp="1483953115591">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/flask/index.html" timestamp="1483886578917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/1.html" timestamp="1484664029494">
         <mark key="'" line="1" column="0" />
@@ -109,11 +114,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/flask/index1.html" timestamp="1483940672698">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -184,13 +184,14 @@
       <jump line="33" column="13" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="121" column="49" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/mook/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oUFJPSkVDVF9ESVIsICdzdGF0aWMnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>temp</text>
@@ -199,31 +200,31 @@
         <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oUFJPSkVDVF9ESVIsICdzdGF0aWMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oUFJPSkVDVF9ESVIsICdzdGF0aWMnKQo=</text>
+        <text encoding="base64">IyBQeXRob246Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtZXNzYWdlIGltcG9ydCB2aWV3cwo=</text>
+        <text encoding="base64">Ki5weVtjb2RdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5zcWxpdGUzJywK</text>
+        <text encoding="base64">YnVpbGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9odG1sPgo=</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">Ki5lZ2ctaW5mbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ki5lZ2cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">X19pbml0X18ucHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9oZWFkPgo=</text>
+        <text encoding="base64">bW9vawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
+        <text encoding="base64">YnVpbGQK</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
