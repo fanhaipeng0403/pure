@@ -9,7 +9,7 @@
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1484586415064">
         <mark key="'" line="933" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1485787846171">
+      <file name="/Python Console" timestamp="1485789284426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -44,12 +44,12 @@
       <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485787704013">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-        <mark key="^" line="2" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485789273156">
+        <mark key="'" line="13" column="47" />
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485759009102" />
       <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/__init__.py" timestamp="1485752802458">
@@ -233,11 +233,11 @@
       <jump line="6" column="47" filename="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Vc2VyTWVzc2FnZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>temp</text>
@@ -246,31 +246,31 @@
         <text encoding="base64">ICAgICAgICBkYl90YWJsZSA9ICJ1c2VyX21lc3NhZ2UiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Vc2VyTWVzc2FnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IFNUQVRJQ19ST09UID0gb3MucGF0aC5qb2luKFBST0pFQ1RfRElSLCAnc3RhdGljJykK</text>
+        <text encoding="base64">ZnJvbSAgLm1vZGVscyBpbXBvcnQgVXNlck1lc3NhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtZXNzYWdlLm5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBtZXNzYWdlIGluIGFsbF9tZXNzYWdlOgo=</text>
+        <text encoding="base64">IFNUQVRJQ19ST09UID0gb3MucGF0aC5qb2luKFBST0pFQ1RfRElSLCAnc3RhdGljJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2hvdyBDT0xVTU5TICBGUk9NICBzdHVkZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBtZXNzYWdlLm5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZlcmJvc2VfbmFtZV9wbHVyYWw9dmVyYm9zZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgIGZvciBtZXNzYWdlIGluIGFsbF9tZXNzYWdlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9yZGVyaW5nPSItb2plY3RfaWQiCg==</text>
+        <text encoding="base64">c2hvdyBDT0xVTU5TICBGUk9NICBzdHVkZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX21lID0gdSLnlKjmiLfnlZnoqIDkv6Hmga8iCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHZlcmJvc2VfbmFtZV9wbHVyYWw9dmVyYm9zZV9uYW1lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmluZz0K</text>
+        <text encoding="base64">ICAgICAgICAjIG9yZGVyaW5nPSItb2plY3RfaWQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
