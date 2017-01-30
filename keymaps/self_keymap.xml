@@ -72,7 +72,6 @@
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="ctrl f2" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="SurroundWith">
