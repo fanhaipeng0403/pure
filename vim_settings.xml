@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1485856491065">
         <mark key="'" line="21" column="14" />
       </file>
-      <file name="/manage.py@Muux" timestamp="1485869333199">
+      <file name="/manage.py@Muux" timestamp="1485871720211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -137,14 +137,14 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485860845466">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485871711248">
         <mark key="a" line="42" column="17" />
-        <mark key="'" line="126" column="0" />
+        <mark key="'" line="0" column="0" />
         <mark key="g" line="85" column="12" />
-        <mark key="[" line="44" column="11" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="42" column="18" />
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="81" />
+        <mark key="." line="17" column="81" />
+        <mark key="^" line="17" column="81" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
@@ -211,8 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="39" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
-      <jump line="37" column="7" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
       <jump line="30" column="27" filename="$USER_HOME$/PycharmProjects/untitled/spider.py" />
       <jump line="1579" column="6" filename="$USER_HOME$/PycharmProjects/untitled/1.html" />
       <jump line="1541" column="4" filename="$USER_HOME$/PycharmProjects/untitled/1.html" />
@@ -299,7 +297,6 @@
       <jump line="38" column="19" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
       <jump line="83" column="12" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
@@ -311,19 +308,22 @@
       <jump line="20" column="26" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
       <jump line="84" column="17" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" />
       <jump line="550" column="12" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" />
+      <jump line="53" column="28" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="17" column="46" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>码</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>码</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eGFkbWluLnNpdGUucmVnaXN0ZXIoRW1haWxWZXJpZnlSZWNvcmQsIEVtYWlsVmVyaWZ5UmVjb3JkQWRtaW4pCg==</text>
+      <register name="0" type="4">
+        <text>[os.path.join(BASE_DIR, 'apps')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
