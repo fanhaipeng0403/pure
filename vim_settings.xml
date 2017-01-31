@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="M" line="77" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+    </globalmarks>
     <filemarks>
       <file name="/&lt;Generic&gt; Fragment (models.py:0).sql" timestamp="1483936541692">
         <mark key="[" line="0" column="0" />
@@ -32,6 +34,9 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="/manage.py@Muux" timestamp="1485826232281">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1485759850100">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,7 +56,6 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485759009102" />
       <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/__init__.py" timestamp="1485752802458">
         <mark key="'" line="41" column="0" />
       </file>
@@ -89,13 +93,19 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485826849717">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="6" column="10" />
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/__init__.py" timestamp="1485787488686" />
       <file name="/manage.py@mook" timestamp="1485785682423">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -231,46 +241,50 @@
       <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/mook/mook/urls.py" />
       <jump line="6" column="47" filename="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" />
+      <jump line="89" column="4" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="55" column="53" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>temp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYl90YWJsZSA9ICJ1c2VyX21lc3NhZ2UiCg==</text>
+        <text encoding="base64">ICAgICAgICAnTkFNRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2RiLnNxbGl0ZTMnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAgLiBpbXBvcnQgIG1vZGVscy5tb2RlbHMubW9kZWxzCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy5Vc2VyTWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAgLm1vZGVscyBpbXBvcnQgVXNlck1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICczMzA2JywgICMg5L2g55qE5pWw5o2u5bqT56uv5Y+jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnSE9TVCc6ICcnLCAgIyDkvaDnmoTmlbDmja7lupPkuLvmnLrvvIznlZnnqbrpu5jorqTkuLpsb2NhbGhvc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IFNUQVRJQ19ST09UID0gb3MucGF0aC5qb2luKFBST0pFQ1RfRElSLCAnc3RhdGljJykK</text>
+        <text encoding="base64">ICAgICAgICAnUEFTU1dPUkQnOiAnJywgICMg5L2g55qE5pWw5o2u5bqT5a+G56CBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtZXNzYWdlLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdyb290JywgICMg5L2g55qE5pWw5o2u5bqT55So5oi35ZCNCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBtZXNzYWdlIGluIGFsbF9tZXNzYWdlOgo=</text>
+        <text encoding="base64">ICAgICAgICAnTkFNRSc6ICdib29rcycsICAjIOS9oOeahOaVsOaNruW6k+WQjeensAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hvdyBDT0xVTU5TICBGUk9NICBzdHVkZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5teXNxbCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZlcmJvc2VfbmFtZV9wbHVyYWw9dmVyYm9zZV9uYW1lCg==</text>
+        <text encoding="base64">ICAgICdkZWZhdWx0Jzogewo=</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>

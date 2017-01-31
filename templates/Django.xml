@@ -1,0 +1,7 @@
+<templateSet group="Django">
+  <template name="database" value="DATABASES = {&#10;    'default': {&#10;        'ENGINE': 'django.db.backends.mysql', &#10;        'NAME': 'books',   &#10;        'USER': 'root',   &#10;        'PASSWORD': '', &#10;        'HOST': '', #留空默认为localhost&#10;        'PORT': '', &#10;    }&#10;}" description="database_setting" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
