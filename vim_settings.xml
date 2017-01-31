@@ -69,9 +69,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/adminx.py" timestamp="1485884444032">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/adminx.py" timestamp="1485886257738">
         <mark key="'" line="11" column="7" />
-        <mark key="^" line="5" column="47" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/__init__.py" timestamp="1485752802458">
         <mark key="'" line="41" column="0" />
@@ -101,13 +104,13 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485882801451">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485887284355">
         <mark key="a" line="15" column="53" />
-        <mark key="'" line="22" column="11" />
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="24" />
-        <mark key="." line="41" column="24" />
-        <mark key="^" line="41" column="24" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/2.6.6/lib/python2.6/bsddb/dbrecio.py" timestamp="1485084864511">
         <mark key="'" line="1" column="0" />
@@ -150,7 +153,7 @@
         <mark key="^" line="13" column="117" />
         <mark key="." line="13" column="117" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" timestamp="1485884047544">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" timestamp="1485886478523">
         <mark key="'" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1485884293300">
@@ -202,12 +205,11 @@
       <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" timestamp="1485867385816">
         <mark key="'" line="550" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" timestamp="1485884241061">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" timestamp="1485886691867">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/1.html" timestamp="1484664029494">
         <mark key="'" line="1" column="0" />
@@ -224,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="121" column="49" filename="$USER_HOME$/PycharmProjects/mook/mook/settings.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/mook/.gitignore" />
       <jump line="1234" column="8" filename="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py" />
@@ -324,10 +325,11 @@
       <jump line="45" column="41" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/adminx.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/adminx.py" />
       <jump line="28" column="7" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/adminx.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSB2ZXJib3NlX25hbWUK</text>
+        <text encoding="base64">aWlpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoZGVmYXVsdD1kYXRldGltZS5ub3cp</text>
@@ -339,31 +341,31 @@
         <text encoding="base64">CmNsYXNzIENpdHlEaWN0KG1vZGVscy5Nb2RlbCk6CiAgICBuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTIwLCB2ZXJib3NlX25hbWU9dSLln47luIIiKQogICAgZGVzYyA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yMDAsIHZlcmJvc2VfbmFtZT11IuaPj+i/sCIpCiAgICBhZGRfdGltZSA9IG1vZGVscy5EYXRlVGltZUZpZWxkKGRlZmF1bHQ9ZGF0ZXRpbWUubm93KQoKICAgIGNsYXNzIE1ldGE6CiAgICAgICAgdmVyYm9zZV9uYW1lID0gdSLln47luIIiCiAgICAgICAgdmVyYm9zZV9uYW1lX3BsdXJhbCA9IHZlcmJvc2VfbmFtZQoKCmNsYXNzIENvdXJzZU9yZyhtb2RlbHMuTW9kZWwpOgogICAgbmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD01MCwgdmVyYm9zZV9uYW1lPXUi5py65p6E5ZCN56ewIikKICAgIGRlc2MgPSBtb2RlbHMuVGV4dEZpZWxkKHZlcmJvc2VfbmFtZT11IuacuuaehOaPj+i/sCIpCiAgICBjbGlja19udW1zID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTAsIHZlcmJvc2VfbmFtZT11IueCueWHu+aVsCIpCiAgICBmYXZfbnVtcyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0wLCB2ZXJib3NlX25hbWU9dSLmlLbol4/mlbAiKQogICAgaW1hZ2UgPSBtb2RlbHMuSW1hZ2VGaWVsZCh1cGxvYWRfdG89Im9yZy8lWS8lbSIsIHZlcmJvc2VfbmFtZT11IuWwgemdouWbviIpCiAgICBhZGRyZXNzID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTE1MCwgdmVyYm9zZV9uYW1lPXUi5py65p6E5Zyw5Z2AIikKICAgIGNpdHkgPSBtb2RlbHMuRm9yZWlnbktleShDaXR5RGljdCwgdmVyYm9zZV9uYW1lPXUi5omA5Zyo5Z+O5biCIikKICAgIGFkZF90aW1lID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoZGVmYXVsdD1kYXRldGltZS5ub3cpCgogICAgY2xhc3MgTWV0YToKICAgICAgICB2ZXJib3NlX25hbWUgPSB1Iuivvueoi+acuuaehCIKICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gdmVyYm9zZV9uYW1lCgoKY2xhc3MgVGVhY2hlcihtb2RlbHMuTW9kZWwpOgogICAgb3JnID0gbW9kZWxzLkZvcmVpZ25LZXkoQ291cnNlT3JnLCB2ZXJib3NlX25hbWU9dSLmiYDlsZ7mnLrmnoQiKQogICAgbmFtZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD01MCwgdmVyYm9zZV9uYW1lPXUi5pWZ5biI5ZCNIikKICAgIHdvcmtfeWVhcnMgPSBtb2RlbHMuSW50ZWdlckZpZWxkKGRlZmF1bHQ9MCwgdmVyYm9zZV9uYW1lPXUi5bel5L2c5bm06ZmQIikKICAgIHdvcmtfY29tcGFueSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD01MCwgdmVyYm9zZV9uYW1lPXUi5bCx6IGM5YWs5Y+4IikKICAgIHdvcmtfcG9zaXRpb24gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9NTAsIHZlcmJvc2VfbmFtZT11IuWFrOWPuOS9jee9riIpCiAgICBwb2ludHMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9NTAsIHZlcmJvc2VfbmFtZT11IuaVmeW4iOeJueeCuSIpCiAgICBjbGlja19udW1zID0gbW9kZWxzLkludGVnZXJGaWVsZChkZWZhdWx0PTAsIHZlcmJvc2VfbmFtZT11IueCueWHu+aVsCIpCiAgICBmYXZfbnVtcyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0wLCB2ZXJib3NlX25hbWU9dSLmlLbol4/mlbAiKQogICAgYWRkX3RpbWUgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZChkZWZhdWx0PWRhdGV0aW1lLm5vdykKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIHZlcmJvc2VfbmFtZSA9IHUi5pWZ5biIIgogICAgICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSB2ZXJib3NlX25hbWU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSB2ZXJib3NlX25hbWUK</text>
+        <text encoding="base64">aWlpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZSA9IHUi5pWZ5biIIgo=</text>
+        <text encoding="base64">dXNlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTWV0YToK</text>
+        <text encoding="base64">YWRqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZV9wbHVyYWwgPSB2ZXJib3NlX25hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xpY2tfbnVtcyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0wLCB2ZXJib3NlX25hbWU9dSLngrnlh7vmlbAiKQo=</text>
+        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZSA9IHUi5pWZ5biIIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGVhY2hlcihtb2RlbHMuTW9kZWwpOgo=</text>
+        <text encoding="base64">Y2xhc3MgTWV0YToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gdmVyYm9zZV9uYW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSB1Iuivvueoi+acuuaehCIK</text>
+        <text encoding="base64">Y2xpY2tfbnVtcyA9IG1vZGVscy5JbnRlZ2VyRmllbGQoZGVmYXVsdD0wLCB2ZXJib3NlX25hbWU9dSLngrnlh7vmlbAiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGVhY2hlcihtb2RlbHMuTW9kZWwpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
