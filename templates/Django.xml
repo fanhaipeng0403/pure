@@ -4,4 +4,19 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="userprofile" value="class UserProfile(AbstractUser):&#10;    nick_name = models.CharField(max_length=50, verbose_name=u&quot;昵称&quot;, default='')&#10;    birthday = models.DateField(verbose_name=u&quot;生日&quot;, null=True, blank=True)&#10;    gender = models.CharField(max_length=5,choices=((&quot;male&quot;, u&quot;男&quot;), (&quot;female&quot;, u&quot;女&quot;)), default='female')&#10;    mobile = models.CharField(max_length=11, null=True, blank=True)&#10;    image = models.ImageField(upload_to='image/%/%m', default=u&quot;imgae/default.png&quot;, max_length=100)&#10;&#10;    class Meta:&#10;        verbose_name = &quot;用户信息&quot;&#10;        verbose_name_plural = verbose_name&#10;&#10;    def __unicode__(self):&#10;        return self.username" description="userprofile" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="EmailVerifyRcord" value="class EmailVerifyRecord(models.Model):&#10;    code = models.CharField(max_length=20, verbose_name=u&quot;验证码&quot;)&#10;    email = models.EmailField(max_length=50, verbose_name=u&quot;验证码&quot;)&#10;    send_type = models.CharField(choices=((&quot;register&quot;, u&quot;注册&quot;), (&quot;forget&quot;, u&quot;找回密码&quot;)))&#10;    send_time = models.DateTimeField(default=datetime.now)&#10;&#10;    class Meta:&#10;        verbose_name = u&quot;邮箱验证码&quot;&#10;        verbose_name_plural = verbose_name" description="emailverify" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="lunbotu" value="class Banner:&#10;    title = models.CharField(max_length=100, verbose_name=u&quot;标题&quot;)&#10;    image = models.ImageField(upload_to=&quot;banner/%Y/%m&quot;, verbose_name=u&quot;轮播图&quot;, max_length=100)&#10;    url = models.URLField(max_length=200, verbose_name=u&quot;访问地址&quot;)&#10;    index = models.IntegerField(default=100, verbose_name=u&quot;顺序&quot;)&#10;    add_time = models.DateField(default=datetime.now, verbose_name=u&quot;添加时间&quot;)&#10;&#10;    class Meta:&#10;        verbose_name = U&quot;轮播图&quot;&#10;        verbose_name_plural = verbose_name" description="lunbotu" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
