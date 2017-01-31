@@ -112,13 +112,13 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485866514721">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485868119837">
         <mark key="a" line="15" column="53" />
         <mark key="'" line="20" column="26" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="20" column="26" />
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="61" />
+        <mark key="." line="29" column="61" />
+        <mark key="^" line="29" column="61" />
       </file>
       <file name="$USER_HOME$/.pyenv/versions/2.6.6/lib/python2.6/bsddb/dbrecio.py" timestamp="1485084864511">
         <mark key="'" line="1" column="0" />
@@ -313,11 +313,11 @@
       <jump line="550" column="12" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>码</text>
       </register>
       <register name="-" type="4">
-        <text>户</text>
+        <text>码</text>
       </register>
       <register name="/" type="4">
         <text>gender</text>
