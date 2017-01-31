@@ -93,12 +93,11 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485826849717">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485828859604">
         <mark key="'" line="33" column="29" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
@@ -247,8 +246,8 @@
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -260,31 +259,31 @@
         <text encoding="base64">ICAgICAgICAnTkFNRSc6IG9zLnBhdGguam9pbihCQVNFX0RJUiwgJ2RiLnNxbGl0ZTMnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICczMzA2JywgICMg5L2g55qE5pWw5o2u5bqT56uv5Y+jCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnSE9TVCc6ICcnLCAgIyDkvaDnmoTmlbDmja7lupPkuLvmnLrvvIznlZnnqbrpu5jorqTkuLpsb2NhbGhvc3QK</text>
+        <text encoding="base64">ICAgICAgICAnUE9SVCc6ICczMzA2JywgICMg5L2g55qE5pWw5o2u5bqT56uv5Y+jCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnUEFTU1dPUkQnOiAnJywgICMg5L2g55qE5pWw5o2u5bqT5a+G56CBCg==</text>
+        <text encoding="base64">ICAgICAgICAnSE9TVCc6ICcnLCAgIyDkvaDnmoTmlbDmja7lupPkuLvmnLrvvIznlZnnqbrpu5jorqTkuLpsb2NhbGhvc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdyb290JywgICMg5L2g55qE5pWw5o2u5bqT55So5oi35ZCNCg==</text>
+        <text encoding="base64">ICAgICAgICAnUEFTU1dPUkQnOiAnJywgICMg5L2g55qE5pWw5o2u5bqT5a+G56CBCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnTkFNRSc6ICdib29rcycsICAjIOS9oOeahOaVsOaNruW6k+WQjeensAo=</text>
+        <text encoding="base64">ICAgICAgICAnVVNFUic6ICdyb290JywgICMg5L2g55qE5pWw5o2u5bqT55So5oi35ZCNCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5teXNxbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAnTkFNRSc6ICdib29rcycsICAjIOS9oOeahOaVsOaNruW6k+WQjeensAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdkZWZhdWx0Jzogewo=</text>
+        <text encoding="base64">ICAgICAgICAnRU5HSU5FJzogJ2RqYW5nby5kYi5iYWNrZW5kcy5teXNxbCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
