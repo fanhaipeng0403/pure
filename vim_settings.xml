@@ -108,9 +108,15 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485858814057">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/admin.py" timestamp="1485859422834">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485859446775">
         <mark key="a" line="42" column="17" />
-        <mark key="'" line="0" column="0" />
+        <mark key="'" line="11" column="0" />
         <mark key="g" line="83" column="12" />
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="13" />
@@ -177,8 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="14" filename="$USER_HOME$/flask/app.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="11" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="22" column="0" filename="$USER_HOME$/flask/app.py" />
       <jump line="26" column="0" filename="$USER_HOME$/flask/app.py" />
@@ -277,6 +281,8 @@
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
       <jump line="83" column="12" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="109" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
