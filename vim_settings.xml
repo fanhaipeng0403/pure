@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks>
       <mark key="M" line="87" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </globalmarks>
@@ -11,15 +11,27 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1485956082340">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="22" column="64" />
-        <mark key="]" line="22" column="64" />
-        <mark key="." line="22" column="64" />
-        <mark key="^" line="14" column="2" />
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1484586415064">
+        <mark key="'" line="933" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/models.py" timestamp="1485925073158">
+        <mark key="'" line="182" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1485965548318">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+        <mark key="^" line="23" column="80" />
       </file>
       <file name="/a.dummy" timestamp="1485957325267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" timestamp="1485925389848">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1485923356270">
+        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/__init__.py" timestamp="1485951284045">
         <mark key="[" line="0" column="39" />
@@ -39,6 +51,12 @@
         <mark key="]" line="29" column="96" />
         <mark key="." line="29" column="96" />
         <mark key="^" line="29" column="96" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/fields/files.py" timestamp="1485752818686">
+        <mark key="'" line="402" column="0" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/foo/local/lib/python2.7/site-packages/requests/sessions.py" timestamp="1484833835208">
+        <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485794909286">
         <mark key="'" line="12" column="47" />
@@ -60,6 +78,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/__init__.py" timestamp="1485752802458">
+        <mark key="'" line="41" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a6160aa-55f3-41d2-a130-9b544767cb16/console.sql" timestamp="1485759620915">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
@@ -80,6 +101,9 @@
         <mark key="." line="19" column="10" />
         <mark key="^" line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/2.6.6/lib/python2.6/bsddb/dbrecio.py" timestamp="1485084864511">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mook/manage.py" timestamp="1485703865916">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="4" column="0" />
@@ -94,14 +118,17 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485958410172">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1485964323488">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="130" column="44" />
         <mark key="]" line="130" column="44" />
         <mark key="." line="130" column="44" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1485958900424">
-        <mark key="'" line="746" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1485965408677">
+        <mark key="'" line="10" column="46" />
+        <mark key="[" line="27" column="74" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/apps.py" timestamp="1485946498800">
         <mark key="[" line="7" column="12" />
@@ -129,6 +156,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/adminx.py" timestamp="1485875186289">
+        <mark key="'" line="16" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" timestamp="1485867385816">
+        <mark key="'" line="550" column="12" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" timestamp="1485925940387">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="14" column="0" />
@@ -147,7 +180,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1485958256890">
+      <file name="/Python Console" timestamp="1485965509517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -198,6 +231,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/login.html" timestamp="1485965228341">
+        <mark key="'" line="94" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/static/js/area.js" timestamp="1485955602624">
         <mark key="'" line="461" column="5" />
       </file>
@@ -232,6 +268,9 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/mook/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1485752889863">
+        <mark key="'" line="2415" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" timestamp="1485925760592">
         <mark key="'" line="19" column="28" />
         <mark key="[" line="58" column="0" />
@@ -262,15 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/adminx.py" />
-      <jump line="28" column="30" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
-      <jump line="20" column="26" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
-      <jump line="84" column="17" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" />
-      <jump line="550" column="12" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/filters.py" />
-      <jump line="53" column="28" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
-      <jump line="17" column="46" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
-      <jump line="16" column="26" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/adminx.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" />
       <jump line="25" column="19" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/adminx.py" />
       <jump line="21" column="25" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/adminx.py" />
       <jump line="19" column="22" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/adminx.py" />
@@ -362,19 +392,28 @@
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="132" column="9" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="7" column="18" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
+      <jump line="25" column="23" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="42" column="44" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="50" column="20" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="51" column="27" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="69" column="30" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="79" column="43" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="94" column="24" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="10" column="46" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>gender</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ154YWRtaW4vJywgeGFkbWluLnNpdGUudXJscyksCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ14kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0iaW5kZXguaHRtbCIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
@@ -408,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gender</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>gender</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>apa</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -424,6 +463,7 @@
         <entry>static</entry>
         <entry>temp</entry>
         <entry>gender</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>s/app/apa</entry>
