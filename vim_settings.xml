@@ -5,7 +5,6 @@
       <mark key="M" line="87" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/apps.py" timestamp="1485926073563" />
       <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1484586415064">
         <mark key="'" line="933" column="0" />
       </file>
@@ -128,7 +127,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485887284355">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485944444463">
         <mark key="a" line="15" column="53" />
         <mark key="'" line="41" column="0" />
         <mark key="[" line="19" column="10" />
