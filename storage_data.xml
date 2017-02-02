@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scope" />
+      <item value="django" />
+      <item value="Turns a setting value into a dependency ." />
+      <item value="Subclass of tuple so Django can tell this was originally a swappable dependency when it reads the migration file ." />
+      <item value="originally" />
+      <item value="Subclass" />
+      <item value="Subclass of tuple so Django can tell this was originally a swappable" />
+      <item value="Swappable" />
+      <item value="preserve" />
+      <item value="mutate" />
+      <item value="# Should be a list of ( app , migration name )." />
+      <item value="# Other migrations that should be run before this migration ." />
+      <item value="migration" />
+      <item value="# Operations to apply during this migration , in order ." />
       <item value="generic" />
       <item value="Class - based views" />
       <item value="Function views" />
@@ -37,13 +51,6 @@
       <item value="diagram" />
       <item value="digra" />
       <item value="ngo . t" />
-      <item value="../ css" />
-      <item value="Value Error" />
-      <item value="isatty" />
-      <item value="Redistribution and use in source and binary forms , with or without # modification , are permitted provided that the following conditions are # met :" />
-      <item value="Copyright ( c ) 1999-2001, Digital Creations , Fredericksburg , VA , USA # and Andrew Kuchling . All rights reserved . # # Redistribution and use in source and binary forms , with or without # modification , are permitted provided that the following conditions are # met : # # o Redistributions of source code must retain the above copyright # notice , this list of conditions , and the disclaimer that follows . # # o Redistributions in binary form must reproduce the above copyright # notice , this list of conditions , and the following disclaimer in # the documentation and / or other materials provided with the # distribution . # # o Neither the name of Digital Creations nor the names of its # contributors may be used to endorse or promote products derived # from this software without specific prior written permission . # # THIS SOFTWARE IS PR" />
-      <item value="Redistributions of source code must retain the above copyright # notice , this list of conditions , and the disclaimer that follows ." />
-      <item value="Redistributions" />
     </histories>
   </component>
 </application>
