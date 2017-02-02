@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BACKENDS" />
+      <item value="AUTHENTICATION" />
       <item value="diagram" />
       <item value="digra" />
       <item value="ngo . t" />
