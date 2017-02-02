@@ -11,17 +11,20 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1485998429224">
+      <file name="/Python Console" timestamp="1486014453335">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486000147105">
+      <file name="/fragment.py" timestamp="1486013329910">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486011980388">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="11" column="18" />
       </file>
       <file name="/a.dummy" timestamp="1485957325267">
@@ -45,12 +48,12 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486000675461">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486015239700">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="/manage.py@Muux" timestamp="1485922331832">
         <mark key="[" line="0" column="0" />
@@ -124,11 +127,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/login.html" timestamp="1485998932107">
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/login.html" timestamp="1486014309716">
         <mark key="'" line="79" column="13" />
-        <mark key="[" line="86" column="23" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/apps/message/models.py" timestamp="1485787483766">
         <mark key="[" line="4" column="0" />
@@ -175,12 +178,11 @@
         <mark key="." line="32" column="53" />
         <mark key="^" line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1485999659086">
-        <mark key="'" line="564" column="101" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486015696714">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
@@ -280,11 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="40" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
-      <jump line="33" column="40" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
-      <jump line="54" column="41" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
-      <jump line="49" column="20" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
-      <jump line="62" column="41" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
       <jump line="13" column="4" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
       <jump line="31" column="7" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
@@ -380,55 +377,60 @@
       <jump line="549" column="101" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="5" column="8" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="38" column="4" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="24" column="3" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="157" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
+      <jump line="48" column="25" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
+      <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>authenticate,login</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
       <register name="-" type="4">
-        <text>authenticate,login</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>服务电话</text>
+        <text>cr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoICBpbXBvcnQgIGF1dGhlbnRpY2F0ZSxsb2dpbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVVUSEVOVElDQVRJT05fQkFDSwoKSU5TVEFMTEVEX0FQUFMgPSBbCiAgICAnZGphbmdvLmNvbnRyaWIuYWRtaW4nLAogICAgJ2RqYW5nby5jb250cmliLmF1dGgnLAogICAgJ2RqYW5nby5jb250cmliLmNvbnRlbnR0eXBlcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyUgZW5kaWYgJX0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslICBlbHNlICV9Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwZXJzb25hbCI+CiAgICAgICAgICAgICAgICA8ZGwgY2xhc3M9InVzZXIgZnIiPgogICAgICAgICAgICAgICAgICAgIDxkZD5ib2JieTxpbWcgY2xhc3M9ImRvd24gZnIiIHNyYz0iL3N0YXRpYy9pbWFnZXMvdG9wX2Rvd24ucG5nIi8+PC9kZD4KICAgICAgICAgICAgICAgICAgICA8ZHQ+PGltZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHNyYz0iL3N0YXRpYy9tZWRpYS9pbWFnZS8yMDE2LzEyL2RlZmF1bHRfYmlnXzE0LnBuZyIvPjwvZHQ+CiAgICAgICAgICAgICAgICA8L2RsPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idXNlcmRldGFpbCI+CiAgICAgICAgICAgICAgICAgICAgPGRsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZHQ+PGltZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHNyYz0iL3N0YXRpYy9tZWRpYS9pbWFnZS8yMDE2LzEyL2RlZmF1bHRfYmlnXzE0LnBuZyIvPjwvZHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMj5kamFuZ288L2gyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+Ym9iYnk8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGQ+CiAgICAgICAgICAgICAgICAgICAgPC9kbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4iPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0icGVyc29uY2VudGVyIGZsIiBocmVmPSJ1c2VyY2VudGVyLWluZm8uaHRtbCI+6L+b5YWl5Liq5Lq65Lit5b+DPC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZnIiIGhyZWY9Ii9sb2dvdXQvIj7pgIDlh7o8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CgoKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgaWYgcmVxdWVzdC51c2VyLmlzX2F1dGhlbnRpY2F0ZWQgJX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDxhIHN0eWxlPSJjb2xvcjp3aGl0ZSIgY2xhc3M9ImZyIHJlZ2lzdGVyYnRuIiBocmVmPSJyZWdpc3Rlci5odG1sIj7ms6jlhow8L2E+PgogICAgICAgICAgICA8YSBzdHlsZT0iY29sb3I6d2hpdGUiIGNsYXNzPSJmciBsb2dpbmJ0biIgaHJlZj0iL2xvZ2luLyI+55m75b2VPC9hPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAkJCTxkaXYgY2xhc3M9InRvcCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGlmIHJlcXVlc3QudXNlci5pc19hdXRoZW50aWNhdGVkICV9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNzcmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjcnNmX3Rva2VuPjwvY3JzZl90b2tlbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
       </register>
     </registers>
     <search>
-      <last-search>服务电话</last-search>
+      <last-search>cr</last-search>
       <last-offset />
-      <last-pattern>服务电话</last-pattern>
+      <last-pattern>cr</last-pattern>
       <last-replace>apa</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
@@ -447,6 +449,8 @@
         <entry>submit</entry>
         <entry>3333</entry>
         <entry>服务电话</entry>
+        <entry>curs</entry>
+        <entry>cr</entry>
       </history-search>
       <history-cmd>
         <entry>s/app/apa</entry>
