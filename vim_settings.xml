@@ -20,12 +20,12 @@
       <file name="/fragment.py" timestamp="1486013329910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486011980388">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486022987450">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="24" column="31" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="11" column="18" />
+        <mark key="[" line="23" column="63" />
+        <mark key="]" line="23" column="74" />
+        <mark key="." line="23" column="74" />
+        <mark key="^" line="23" column="74" />
       </file>
       <file name="/a.dummy" timestamp="1485957325267">
         <mark key="[" line="0" column="0" />
@@ -168,8 +168,8 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486021609467">
-        <mark key="'" line="38" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486022083929">
+        <mark key="'" line="76" column="10" />
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="53" />
         <mark key="." line="32" column="53" />
@@ -280,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
       <jump line="31" column="7" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/operation/xadmin.py" />
@@ -357,7 +356,6 @@
       <jump line="117" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
-      <jump line="132" column="9" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="7" column="18" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
       <jump line="25" column="23" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
@@ -380,6 +378,8 @@
       <jump line="48" column="25" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="132" column="28" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="76" column="10" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
