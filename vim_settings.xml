@@ -11,12 +11,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486025055437">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486034507208">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="74" />
-        <mark key="." line="23" column="74" />
-        <mark key="^" line="23" column="74" />
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1486024133353">
         <mark key="'" line="197" column="0" />
@@ -70,12 +70,12 @@
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1486025822851">
-        <mark key="a" line="16" column="53" />
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="10" />
+        <mark key="a" line="15" column="53" />
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="10" />
+        <mark key="." line="19" column="10" />
+        <mark key="^" line="19" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/manage.py" timestamp="1485703865916">
         <mark key="'" line="11" column="0" />
@@ -91,7 +91,7 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486027091691">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486033880214">
         <mark key="'" line="52" column="51" />
         <mark key="[" line="32" column="28" />
         <mark key="]" line="32" column="38" />
@@ -138,7 +138,7 @@
         <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/migrations/0001_initial.py" timestamp="1486023141404" />
-      <file name="/Python Console" timestamp="1486027161378">
+      <file name="/Python Console" timestamp="1486035190501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -159,10 +159,12 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486029026402">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="31" column="52" />
-        <mark key="." line="21" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486035436036">
+        <mark key="'" line="26" column="21" />
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="^" line="33" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/adminx.py" timestamp="1486025218855">
         <mark key="'" line="22" column="3" />
@@ -214,11 +216,6 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/__init__.py" timestamp="1486021510635">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="6" column="10" />
@@ -269,6 +266,12 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="19" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/forms.py" timestamp="1486035069800">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/1.html" timestamp="1484664029494">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -286,8 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="1" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
-      <jump line="5" column="42" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
       <jump line="55" column="28" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
       <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
@@ -375,7 +376,6 @@
       <jump line="157" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="48" column="25" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="97" column="12" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
-      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="132" column="28" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="76" column="10" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="51" column="6" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/apps/config.py" />
@@ -386,46 +386,49 @@
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="6" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">dXNlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">dXNlciA=</text>
       </register>
       <register name="/" type="4">
         <text>cr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYiBpbXBvcnQgYWRtaW4K</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gZm9ybXMuQ2hhckZpZWxkKHJlcXVpcmVkPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYiBpbXBvcnQgYWRtaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICA8YSBzdHlsZT0iY29sb3I6d2hpdGUiIGNsYXNzPSJmciByZWdpc3RlcmJ0biIgaHJlZj0icmVnaXN0ZXIuaHRtbCI+5rOo5YaMPC9hPj4KICAgICAgICAgICAgPGEgc3R5bGU9ImNvbG9yOndoaXRlIiBjbGFzcz0iZnIgbG9naW5idG4iIGhyZWY9Ii9sb2dpbi8iPueZu+W9lTwvYT4K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYiBpbXBvcnQgYWRtaW4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBlcnNvbmFsIj4KICAgICAgICAgICAgICAgIDxkbCBjbGFzcz0idXNlciBmciI+CiAgICAgICAgICAgICAgICAgICAgPGRkPmJvYmJ5PGltZyBjbGFzcz0iZG93biBmciIgc3JjPSIvc3RhdGljL2ltYWdlcy90b3BfZG93bi5wbmciLz48L2RkPgogICAgICAgICAgICAgICAgICAgIDxkdD48aW1nIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgc3JjPSIvc3RhdGljL21lZGlhL2ltYWdlLzIwMTYvMTIvZGVmYXVsdF9iaWdfMTQucG5nIi8+PC9kdD4KICAgICAgICAgICAgICAgIDwvZGw+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1c2VyZGV0YWlsIj4KICAgICAgICAgICAgICAgICAgICA8ZGw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkdD48aW1nIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCIgc3JjPSIvc3RhdGljL21lZGlhL2ltYWdlLzIwMTYvMTIvZGVmYXVsdF9iaWdfMTQucG5nIi8+PC9kdD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyPmRqYW5nbzwvaDI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD5ib2JieTwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kZD4KICAgICAgICAgICAgICAgICAgICA8L2RsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJ0biI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwZXJzb25jZW50ZXIgZmwiIGhyZWY9InVzZXJjZW50ZXItaW5mby5odG1sIj7ov5vlhaXkuKrkurrkuK3lv4M8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJmciIgaHJlZj0iL2xvZ291dC8iPumAgOWHujwvYT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgaWYgcmVxdWVzdC51c2VyLmlzX2F1dGhlbnRpY2F0ZWQgJX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
