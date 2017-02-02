@@ -142,20 +142,17 @@
       <file name="$USER_HOME$/PycharmProjects/Muux/static/js/area.js" timestamp="1485955602624">
         <mark key="'" line="461" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1485944444463">
-        <mark key="a" line="15" column="53" />
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="10" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/organization/models.py" timestamp="1485839860529">
         <mark key="'" line="18" column="14" />
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
         <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/__init__.py" timestamp="1486021510635">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/manage.py" timestamp="1485703865916">
         <mark key="'" line="11" column="0" />
@@ -171,7 +168,7 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486009167104">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486021609467">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="53" />
@@ -196,6 +193,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/wsgi.py" timestamp="1486021587294" />
       <file name="$USER_HOME$/PycharmProjects/Muux/courses/models.py" timestamp="1485841530512">
         <mark key="[" line="13" column="104" />
         <mark key="]" line="13" column="117" />
@@ -384,11 +382,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cr</text>

@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For more information on this file , see" />
+      <item value="It exposes the WSGI callable as a module - level variable named `` application ``." />
+      <item value="VALIDATORS" />
+      <item value="AUTH PASSWORD VALIDATORS = [ { ' NAME ': ' django . contrib . auth . password validation . User Attribute Similarity Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Minimum Length Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Common Password Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Numeric Password Validator" />
+      <item value="AUTH PASSWORD VALIDATORS = [ { ' NAME ': ' django . contrib . auth . password validation . User Attribute Similarity Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Minimum Length Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Common Password Validator ', }, { ' NAME ': ' django . contrib . auth . password validation . Numeric Password Validator ', }, ]" />
       <item value="authenticated" />
       <item value="BACKENDS" />
       <item value="AUTHENTICATION" />
