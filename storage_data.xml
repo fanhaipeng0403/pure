@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="authenticated" />
       <item value="BACKENDS" />
       <item value="AUTHENTICATION" />
       <item value="diagram" />
