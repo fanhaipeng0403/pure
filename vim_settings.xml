@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/PycharmProjects/Muux/static/css/login.css" timestamp="1486038816240">
         <mark key="'" line="323" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486271019940">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486274847971">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="131" column="15" />
-        <mark key="]" line="131" column="20" />
-        <mark key="." line="131" column="20" />
-        <mark key="^" line="131" column="20" />
+        <mark key="[" line="142" column="18" />
+        <mark key="]" line="142" column="18" />
+        <mark key="." line="142" column="18" />
+        <mark key="^" line="142" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486101699100">
         <mark key="'" line="46" column="80" />
@@ -143,12 +143,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486273589736">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486274620986">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
         <mark key="[" line="4" column="0" />
@@ -225,7 +225,8 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/views.py" timestamp="1486270367318">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/views.py" timestamp="1486274588882">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -352,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="38" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
       <jump line="19" column="28" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/xadmin.py" />
       <jump line="18" column="11" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/adminx.py" />
@@ -452,46 +451,48 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/courses/views.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY29udGVudCAlfQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>error btns</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15jYXB0Y2hhLycsIGluY2x1ZGUoImNhcHRjaGEudXJscyIpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIAogICAgZGVmIF9fdW5pY29kZV9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY29udGVudCAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBkZWYgX191bmljb2RlX18oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYubmFtZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
+        <text encoding="base64">eyUgYmxvY2sgY29udGVudCAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGU8L2U+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGU8L2U+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY3VzdG9tX2JyZWFkICV9Cg==</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>

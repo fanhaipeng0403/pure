@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="slash" />
       <item value="scope" />
       <item value="django" />
       <item value="Turns a setting value into a dependency ." />
@@ -50,7 +51,6 @@
       <item value="AUTHENTICATION" />
       <item value="diagram" />
       <item value="digra" />
-      <item value="ngo . t" />
     </histories>
   </component>
 </application>
