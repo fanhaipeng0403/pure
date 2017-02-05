@@ -54,10 +54,12 @@
         <mark key="." line="29" column="96" />
         <mark key="^" line="29" column="96" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" timestamp="1486270788066">
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" timestamp="1486273345567">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485794909286">
         <mark key="'" line="12" column="47" />
@@ -141,12 +143,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1485884293300">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486273589736">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="46" column="41" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
         <mark key="[" line="4" column="0" />
@@ -350,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="45" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
       <jump line="16" column="38" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/__init__.py" />
@@ -450,10 +451,11 @@
       <jump line="118" column="23" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="139" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eyUgYmxvY2sgY29udGVudCAlfQo=</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -465,31 +467,31 @@
         <text encoding="base64">ICAgIHVybChyJ15jYXB0Y2hhLycsIGluY2x1ZGUoImNhcHRjaGEudXJscyIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
+        <text encoding="base64">eyUgYmxvY2sgY29udGVudCAlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgYmxvY2sgY3VzdG9tX2JyZWFkICV9Cg==</text>
+        <text encoding="base64">eyUgbG9hZCBzdGF0aWNmaWxlcyAlfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGBgYAo=</text>
+        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIOivvueoi+acuuaehOWIl+ihqOWKn+iDvQo=</text>
+        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGBgYAo=</text>
+        <text encoding="base64">PGU8L2U+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
+        <text encoding="base64">eyUgYmxvY2sgY3VzdG9tX2JyZWFkICV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
