@@ -143,12 +143,12 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486274620986">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="55" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486276832324">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="27" column="81" />
+        <mark key="]" line="27" column="113" />
+        <mark key="." line="27" column="113" />
+        <mark key="^" line="27" column="113" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
         <mark key="[" line="4" column="0" />
@@ -456,16 +456,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>error btns</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIAogICAgZGVmIF9fdW5pY29kZV9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNsaWNrX251bXMgPSBtb2RlbHMuSW50ZWdlckZpZWxkKGRlZmF1bHQ9MCwgdmVyYm9zZV9uYW1lPXUi54K55Ye75pWwIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
