@@ -18,7 +18,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486270535991">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486283523301">
         <mark key="'" line="7" column="18" />
         <mark key="[" line="28" column="23" />
         <mark key="]" line="28" column="54" />
@@ -30,11 +30,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" timestamp="1486279722150">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="32" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" timestamp="1486283811262">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="17" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1486024133353">
         <mark key="'" line="197" column="0" />
@@ -61,11 +61,11 @@
         <mark key="." line="29" column="96" />
         <mark key="^" line="29" column="96" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" timestamp="1486280579551">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" timestamp="1486284057886">
+        <mark key="[" line="43" column="73" />
+        <mark key="]" line="43" column="73" />
+        <mark key="^" line="43" column="81" />
+        <mark key="." line="43" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/apps/message/views.py" timestamp="1485794909286">
         <mark key="'" line="12" column="47" />
@@ -193,7 +193,7 @@
       <file name="$USER_HOME$/.virtualenvs/bottle_test/local/lib/python2.7/site-packages/bottle.py" timestamp="1486100238472">
         <mark key="'" line="3759" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1486270588010">
+      <file name="/Python Console" timestamp="1486283476162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -461,11 +461,11 @@
       <jump line="58" column="15" filename="$USER_HOME$/PycharmProjects/Muux/templates/base.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>error btns</text>
@@ -486,19 +486,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iP2NpdHk9MSZjdD0iPjxzcGFuIGNsYXNzPSIiPuWMl+S6rOW4gjwvc3Bhbj48L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iP2NpdHk9MSZjdD0iPjxzcGFuIGNsYXNzPSIiPuWMl+S6rOW4gjwvc3Bhbj48L2E+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI/Y2l0eT01JmN0PSI+PHNwYW4gY2xhc3M9IiI+5aSp5rSl5biCPC9zcGFuPjwvYT4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSI/Y2l0eT00JmN0PSI+PHNwYW4gY2xhc3M9IiI+5rex5Zyz5biCPC9zcGFuPjwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
