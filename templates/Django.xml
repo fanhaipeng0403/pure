@@ -24,4 +24,25 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="404" value="&#10;def page_not_found(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('404.html', {})&#10;    response.status_code = 404&#10;    return response&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Django" value="true" />
+    </context>
+  </template>
+  <template name="500" value="&#10;def page_error(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('500.html', {})&#10;    response.status_code = 500&#10;    return response" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="media_url" value="    url(r'^media/(?P&lt;path&gt;.*)$', serve, {&quot;document_root&quot;: MEDIA_ROOT})," toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="static_url" value="    url(r'^media/(?P&lt;path&gt;.*)$', serve, {&quot;document_root&quot;: MEDIA_ROOT})," toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
