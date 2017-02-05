@@ -30,11 +30,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" timestamp="1486295382128">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
-        <mark key="^" line="28" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" timestamp="1486300607695">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1486024133353">
         <mark key="'" line="197" column="0" />
@@ -427,9 +427,9 @@
       <jump line="72" column="21" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="6" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="51" column="19" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" />
       <jump line="42" column="4" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" />
+      <jump line="14" column="6" filename="$USER_HOME$/PycharmProjects/Muux/apps/organization/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -451,22 +451,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICBRCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICBRCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
