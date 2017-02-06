@@ -70,4 +70,10 @@
       <option name="Django" value="true" />
     </context>
   </template>
+  <template name="render_live" value="return render(request,&quot;&quot;,{})" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+      <option name="Django" value="true" />
+    </context>
+  </template>
 </templateSet>
