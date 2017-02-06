@@ -183,6 +183,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="21" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/forms/forms.py" timestamp="1486357624873">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1486289211861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
@@ -204,8 +207,11 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486310631061">
-        <mark key="'" line="82" column="0" />
+      <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/utils/six.py" timestamp="1486357561615">
+        <mark key="'" line="883" column="4" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486357148842">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="41" column="28" />
@@ -281,6 +287,7 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/forms/__init__.py" timestamp="1486357374444" />
       <file name="$USER_HOME$/PycharmProjects/Muux/courses/models.py" timestamp="1485841530512">
         <mark key="[" line="13" column="104" />
         <mark key="]" line="13" column="117" />
@@ -317,7 +324,7 @@
         <mark key="." line="8" column="5" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/forms.py" timestamp="1486263070532">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/forms.py" timestamp="1486357334987">
         <mark key="'" line="14" column="7" />
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="27" />
@@ -333,13 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="18" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
-      <jump line="25" column="23" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="42" column="44" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="50" column="20" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="51" column="27" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="69" column="30" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="94" column="24" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
       <jump line="10" column="46" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="39" column="22" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
       <jump line="1" column="5" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
@@ -433,6 +433,13 @@
       <jump line="30" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="136" column="6" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="70" column="29" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
+      <jump line="483" column="6" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/forms/forms.py" />
+      <jump line="68" column="21" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/forms/forms.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/forms/forms.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/utils/six.py" />
+      <jump line="883" column="4" filename="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/utils/six.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
