@@ -34,7 +34,7 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="/manage.py@Muux" timestamp="1486386035675">
+      <file name="/manage.py@Muux" timestamp="1486387189721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -91,6 +91,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486387194625">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="15" />
+        <mark key="^" line="35" column="15" />
+        <mark key="." line="35" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
         <mark key="[" line="4" column="0" />
@@ -212,13 +218,6 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/forms.py" timestamp="1486357334987">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="15" column="27" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/shortcuts.py" timestamp="1486363426975">
         <mark key="'" line="213" column="4" />
