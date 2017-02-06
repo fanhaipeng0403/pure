@@ -26,8 +26,8 @@
   </template>
   <template name="404" value="&#10;def page_not_found(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('404.html', {})&#10;    response.status_code = 404&#10;    return response&#10;" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="Django" value="true" />
       <option name="Python" value="true" />
+      <option name="Django" value="true" />
     </context>
   </template>
   <template name="500" value="&#10;def page_error(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('500.html', {})&#10;    response.status_code = 500&#10;    return response" toReformat="false" toShortenFQNames="true">
@@ -51,6 +51,16 @@
     </context>
   </template>
   <template name="post" value="  def get(self, request):" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sys.path.extend" value="sys.path.extend([os.path.join(BASE_DIR, 'apps'), os.path.join(BASE_DIR, 'extra_apps')])" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="index" value="    url(r'^$', TemplateView.as_view(template_name=&quot;index.html&quot;), name=&quot;index&quot;)," description="url_index_config" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
