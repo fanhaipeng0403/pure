@@ -1,9 +1,4 @@
 <templateSet group="Django">
-  <template name="database" value="DATABASES = {&#10;    'default': {&#10;        'ENGINE': 'django.db.backends.mysql', &#10;        'NAME': 'books',   &#10;        'USER': 'root',   &#10;        'PASSWORD': '', &#10;        'HOST': '', #留空默认为localhost&#10;        'PORT': '', &#10;    }&#10;}" description="database_setting" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="Python" value="true" />
-    </context>
-  </template>
   <template name="userprofile" value="class UserProfile(AbstractUser):&#10;    nick_name = models.CharField(max_length=50, verbose_name=u&quot;昵称&quot;, default='')&#10;    birthday = models.DateField(verbose_name=u&quot;生日&quot;, null=True, blank=True)&#10;    gender = models.CharField(max_length=5,choices=((&quot;male&quot;, u&quot;男&quot;), (&quot;female&quot;, u&quot;女&quot;)), default='female')&#10;    mobile = models.CharField(max_length=11, null=True, blank=True)&#10;    image = models.ImageField(upload_to='image/%/%m', default=u&quot;imgae/default.png&quot;, max_length=100)&#10;&#10;    class Meta:&#10;        verbose_name = &quot;用户信息&quot;&#10;        verbose_name_plural = verbose_name&#10;&#10;    def __unicode__(self):&#10;        return self.username" description="userprofile" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
@@ -26,8 +21,8 @@
   </template>
   <template name="404" value="&#10;def page_not_found(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('404.html', {})&#10;    response.status_code = 404&#10;    return response&#10;" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="Django" value="true" />
       <option name="Python" value="true" />
+      <option name="Django" value="true" />
     </context>
   </template>
   <template name="500" value="&#10;def page_error(request):&#10;    from django.shortcuts import render_to_response&#10;    response = render_to_response('500.html', {})&#10;    response.status_code = 500&#10;    return response" toReformat="false" toShortenFQNames="true">
@@ -63,6 +58,16 @@
   <template name="index" value="    url(r'^$', TemplateView.as_view(template_name=&quot;index.html&quot;), name=&quot;index&quot;)," description="url_index_config" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="sql" value="import pymysql&#10;pymysql.install_as_MySQLdb()&#10;&#10;import contextlib&#10;#定义上下文管理器，连接后自动关闭连接&#10;@contextlib.contextmanager&#10;def mysql(host='127.0.0.1', port=3306, user='root', passwd='', db='tkq1',charset='utf8'):&#10;  conn = pymysql.connect(host=host, port=port, user=user, passwd=passwd, db=db, charset=charset)&#10;  cursor = conn.cursor(cursor=pymysql.cursors.DictCursor)&#10;  try:&#10;    yield cursor&#10;  finally:&#10;    conn.commit()&#10;    cursor.close()&#10;    conn.close()&#10;&#10;# 执行sql&#10;with mysql() as cursor:&#10;  print(cursor)&#10;  row_count = cursor.execute(&quot;select * from tb7&quot;)&#10;  row_1 = cursor.fetchone()&#10;  print row_count, row_1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="database" value="&#10;DATABASES = {&#10;    'default': {&#10;        'ENGINE': 'django.db.backends.mysql',&#10;        'NAME': 'testdjango',&#10;        'USER': 'root',&#10;        'PASSWORD': '12345',&#10;        'HOST': '127.0.0.1',&#10;    }&#10;}&#10;&#10;# 可通过 ctrl+alt+R  shell 来&#10;# 输入下面这些命令来测试你的数据库配置：1&#10;#&#10;# &gt;&gt;&gt; from django.db import connection&#10;# &gt;&gt;&gt; cursor = connection.cursor()&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Django" value="true" />
     </context>
   </template>
 </templateSet>

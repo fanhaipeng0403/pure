@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Slug Field '" />
+      <item value="UUID Field '" />
+      <item value="' Auto Field ', ' BLANK CHOICE DASH ', ' Big Integer Field ', ' Binary Field ', ' Boolean Field ', ' Char Field ', ' Comma Separated Integer Field ', ' Date Field ', ' Date Time Field ', ' Decimal Field ', ' Duration Field ', ' Email Field ', ' Empty ', ' Field ', ' Field Does Not Exist ', ' File Path Field ', ' Float Field ', ' Generic IP Address Field ', ' IP Address Field ', ' Integer Field ', ' NOT PROVIDED ', ' Null Boolean Field ', ' Positive Integer Field ', ' Positive Small Integer Field ', ' Slug Field ', ' Small Integer Field ', ' Text Field ', ' Time Field ', ' URL Field ', ' UUID Field ', )]" />
+      <item value="' Comma Separated Integer Field '" />
+      <item value="BLANK CHOICE DASH" />
       <item value="deprecated" />
       <item value="No deprecated arguments were passed - use the new code path # In Django 1.10, request should become a positional argument ." />
       <item value="populate" />
@@ -46,11 +51,6 @@
       <item value="Authentication Middleware" />
       <item value="Csrf View Middleware" />
       <item value="Common Middleware" />
-      <item value="Session Middleware" />
-      <item value="Security Middleware" />
-      <item value="MIDDLEWARE CLASSES = [ ' django . middleware . security . Security Middleware ', ' django . contrib . sessions . middleware . Session Middleware ', ' django . middleware . common . Common Middleware ', ' django . middleware . csrf . Csrf View Middleware ', ' django . contrib . auth . middleware . Authentication Middleware ', ' django . contrib . auth . middleware . Session Authentication Middleware ', ' django . contrib . messages . middleware . Message Middleware ', ' django . middleware . clickjacking . X Frame Options Middleware ', ]" />
-      <item value="URLCONF" />
-      <item value="# SECURITY WARNING : don ' t run with debug turned on in production !" />
     </histories>
   </component>
 </application>
