@@ -18,12 +18,11 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486352573272">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486352634758">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="32" column="16" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1486291390851">
         <mark key="[" line="0" column="0" />
@@ -437,7 +436,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ14kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0iaW5kZXguaHRtbCIpLCBuYW1lPSJpbmRleCIpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -449,30 +448,30 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0iaW5kZXguaHRtbCIpLCBuYW1lPSJpbmRleCIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ14kJywgVGVtcGxhdGVWaWV3LmFzX3ZpZXcodGVtcGxhdGVfbmFtZT0iaW5kZXguaHRtbCIpLCBuYW1lPSJpbmRleCIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IExvZ2luVmlldwo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgVGVtcGxhdGVWaWV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCk6Cg==</text>
+        <text encoding="base64">IExvZ2luVmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyKHJlcXVlc3QsICJsb2dpbi5odG1sIiwge30pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVuZGVyKHJlcXVlc3QsICJsb2dpbi5odG1sIiwge30pCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZik6Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Iwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text># DEBUG = False
 # ALLOWED_HOSTS = ['*']
 #</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
