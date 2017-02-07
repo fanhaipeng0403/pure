@@ -5,6 +5,13 @@
       <mark key="M" line="109" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/base.html" timestamp="1486483501564">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="22" column="47" />
+        <mark key="]" line="22" column="57" />
+        <mark key="^" line="22" column="57" />
+        <mark key="." line="22" column="57" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486479253801">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="32" column="11" />
@@ -46,12 +53,9 @@
         <mark key="]" line="61" column="43" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486481974969">
-        <mark key="'" line="595" column="6" />
-        <mark key="[" line="562" column="36" />
-        <mark key="]" line="562" column="46" />
-        <mark key="." line="562" column="46" />
-        <mark key="^" line="562" column="46" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486483642106">
+        <mark key="'" line="558" column="38" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/sites.py" timestamp="1486470464364">
         <mark key="'" line="343" column="17" />
@@ -99,8 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
-      <jump line="35" column="5" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="46" column="80" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
       <jump line="22" column="7" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
@@ -199,13 +201,15 @@
       <jump line="91" column="23" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
       <jump line="92" column="36" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
       <jump line="596" column="6" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
+      <jump line="44" column="19" filename="$USER_HOME$/PycharmProjects/Muux/templates/base.html" />
+      <jump line="558" column="38" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndwIj4KICAgICAgICAgICAgICAgICAgICA8YSBzdHlsZT0iY29sb3I6d2hpdGUiIGNsYXNzPSJmciByZWdpc3RlcmJ0biIgaHJlZj0iL3JlZ2lzdGVyIj7ms6jlhow8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgc3R5bGU9ImNvbG9yOndoaXRlIiBjbGFzcz0iZnIgbG9naW5idG4iIGhyZWY9Ii9sb2dpbi8iPueZu+W9lTwvYT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>3333333</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>mid</text>
@@ -214,31 +218,31 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmwiPjxoMT7nlLXor53vvJoxNTgxMTMzNzEwOTwvaDE+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndwIj4KICAgICAgICAgICAgICAgICAgICA8YSBzdHlsZT0iY29sb3I6d2hpdGUiIGNsYXNzPSJmciByZWdpc3RlcmJ0biIgaHJlZj0iL3JlZ2lzdGVyIj7ms6jlhow8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgc3R5bGU9ImNvbG9yOndoaXRlIiBjbGFzcz0iZnIgbG9naW5idG4iIGhyZWY9Ii9sb2dpbi8iPueZu+W9lTwvYT4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRvcCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGVyc29uYWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGwgY2xhc3M9InVzZXIgZnIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRkPmJvYmJ5PGltZyBjbGFzcz0iZG93biBmciIgc3JjPSIvc3RhdGljL2ltYWdlcy90b3BfZG93bi5wbmciLz48L2RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGR0PjxpbWcgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBzcmM9Ii9zdGF0aWMvbWVkaWEvaW1hZ2UvMjAxNi8xMi9kZWZhdWx0X2JpZ18xNC5wbmciLz48L2R0PgogICAgICAgICAgICAgICAgICAgICAgICA8L2RsPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1c2VyZGV0YWlsIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZHQ+PGltZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHNyYz0iL3N0YXRpYy9tZWRpYS9pbWFnZS8yMDE2LzEyL2RlZmF1bHRfYmlnXzE0LnBuZyIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZHQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDI+ZGphbmdvPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+Ym9iYnk8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwZXJzb25jZW50ZXIgZmwiIGhyZWY9InVzZXJjZW50ZXItaW5mby5odG1sIj7ov5vlhaXkuKrkurrkuK3lv4M8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImZyIiBocmVmPSIvbG9nb3V0LyI+6YCA5Ye6PC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRvcCI+Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ3cCI+CiAgICAgICAgICAgICAgICAgICAgPGEgc3R5bGU9ImNvbG9yOndoaXRlIiBjbGFzcz0iZnIgcmVnaXN0ZXJidG4iIGhyZWY9Ii9yZWdpc3RlciI+5rOo5YaMPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIHN0eWxlPSJjb2xvcjp3aGl0ZSIgY2xhc3M9ImZyIGxvZ2luYnRuIiBocmVmPSIvbG9naW4vIj7nmbvlvZU8L2E+CiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGluY2x1ZGU+PC9pbmNsdWRlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9IndwIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmwiPjxoMT7nlLXor53vvJoxNTgxMTMzNzEwOTwvaDE+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">eyUgYmxvY2sgICV9Cg==</text>
+        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
