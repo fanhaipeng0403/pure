@@ -52,7 +52,7 @@
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/utils/six.py" timestamp="1486360956466">
         <mark key="'" line="883" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1486456085849">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1486456710939">
         <mark key="[" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/__init__.py" timestamp="1486025645531">
@@ -168,7 +168,7 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486387194625">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486456633182">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="15" />
         <mark key="^" line="35" column="15" />
