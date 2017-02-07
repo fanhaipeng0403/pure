@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="M" line="102" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <mark key="M" line="109" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/apps.py" timestamp="1486025237977">
@@ -11,12 +11,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486434836836">
-        <mark key="'" line="8" column="18" />
-        <mark key="[" line="23" column="36" />
-        <mark key="]" line="23" column="36" />
-        <mark key="." line="23" column="36" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486440748378">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
+        <mark key="^" line="32" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1486372797572">
         <mark key="[" line="0" column="0" />
@@ -83,12 +83,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486434853186">
-        <mark key="'" line="158" column="19" />
-        <mark key="[" line="162" column="44" />
-        <mark key="]" line="158" column="19" />
-        <mark key="^" line="158" column="19" />
-        <mark key="." line="158" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486440915926">
+        <mark key="'" line="98" column="38" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/apps.py" timestamp="1486260632230">
         <mark key="[" line="7" column="12" />
@@ -140,7 +139,7 @@
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/db/models/fields/__init__.py" timestamp="1486374539965">
         <mark key="'" line="2415" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1486289211861">
+      <file name="/Python Console" timestamp="1486440088322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="46" column="0" />
@@ -261,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/Muux/templates/login.html" />
-      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="44" column="0" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="25" column="21" filename="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" />
       <jump line="52" column="5" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
@@ -361,13 +358,15 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="71" column="53" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="158" column="19" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="100" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="46" column="29" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, STATIC_ROOT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3FsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>, STATIC_ROOT</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>mid</text>
@@ -376,31 +375,31 @@
         <text encoding="base64">ICAgICdwdXJlX3BhZ2luYXRpb24nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBNdXV4LnNldHRpbmdzIGltcG9ydCBNRURJQV9ST09ULCBTVEFUSUNfUk9PVAo=</text>
+        <text encoding="base64">c3FsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCBpbmNsdWRlLCB1cmwK</text>
+        <text encoding="base64">U1RBVElDRklMRVNfRElSUyA9IChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICJzdGF0aWMiKSwpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICcvc3RhdGljLycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdwdXJlX3BhZ2luYXRpb24nLAo=</text>
+        <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eyJuYW1lIjogInhhZG1pbiJ9Cg==</text>
+        <text encoding="base64">V1NHSV9BUFBMSUNBVElPTiA9ICdNdXV4LndzZ2kuYXBwbGljYXRpb24nCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewogICJuYW1lIjogInhhZG1pbiIsCiAgInZlcnNpb24iOiAiMC4xLjAiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAianF1ZXJ5IjogIj49MS44LjMiLAogICAgImpxdWVyeS11aSI6ICI+PTEuMTAuMCIsCiAgICAiYm9vdHN0cmFwIjogImh0dHA6Ly90d2l0dGVyLmdpdGh1Yi5pby9ib290c3RyYXAvYXNzZXRzL2Jvb3RzdHJhcC56aXAiLAogICAgImJvb3RzdHJhcC10aW1lcGlja2VyIjogIj49MC4yLjMiLAogICAgImJvb3RzdHJhcC1kYXRlcGlja2VyIjogIj49MS4wLjAiLAogICAgImJvb3RzdHJhcC1tb2RhbCI6ICI+PTIuMSIsCiAgICAiZmxvdCI6ICI+PTAuOCIsCiAgICAiZm9udC1hd2Vzb21lIjogIj49My4wLjIiLAogICAgImxvYWQtaW1hZ2UiOiAiYmx1ZWltcC9KYXZhU2NyaXB0LUxvYWQtSW1hZ2UiLAogICAgImJvb3RzdHJhcC1pbWFnZS1nYWxsZXJ5IjogImJsdWVpbXAvQm9vdHN0cmFwLUltYWdlLUdhbGxlcnkiLAogICAgInNlbGVjdDIiOiAiPj0zLjMuMiIsCiAgICAic2VsZWN0aXplIjogIj49MC44LjQiLAogICAgImRhdGVqcyI6ICJkYXRlanMvRGF0ZWpzIiwKICAgICJib290c3RyYXAtbXVsdGlzZWxlY3QiOiAiZGF2aWRzdHV0ei9ib290c3RyYXAtbXVsdGlzZWxlY3QiCiAgfQp9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Uk9PVF9VUkxDT05GID0gJ011dXgudXJscycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAibmFpMW1lIjogInhhZG1pbiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">QVVUSF9VU0VSX01PREVMID0gInVzZXJwcm9maWxlLlVzZXJQcm9maWxlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
