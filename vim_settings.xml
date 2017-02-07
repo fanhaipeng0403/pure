@@ -59,11 +59,11 @@
       <file name="$USER_HOME$/.virtualenvs/Muux/lib/python2.7/types.py" timestamp="1486361027606">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1486452665322">
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1486453443029">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" timestamp="1486449913224">
@@ -339,11 +339,11 @@
       <jump line="46" column="29" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgQWJzdHJhY3RVc2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>mid</text>
