@@ -25,7 +25,7 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486470747833">
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486477380160">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="10" />
@@ -151,6 +151,11 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="43" />
         <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486477115966">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
         <mark key="[" line="5" column="8" />
@@ -337,7 +342,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgoK</text>
+        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -349,31 +354,31 @@
         <text encoding="base64">QVVUSF9VU0VSX01PREVMID0gInVzZXJwcm9maWxlLlVzZXJQcm9maWxlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgoK</text>
+        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">PGV4dGVuZD48L2V4dGVuZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">PGluY2x1ZGU+PC9pbmNsdWRlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VVNFX1RaID0gRmFsc2UK</text>
+        <text encoding="base64">eyUgbG9hZCB0eiAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VVNFX1RaID0gRmFsc2UK</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TEFOR1VBR0VfQ09ERSA9ICd6aC1oYW5zJwo=</text>
+        <text encoding="base64">eyUgYmxvY2sgICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXJsX2YK</text>
+        <text encoding="base64">PHN0YXRpY2ZpbGU+PC9zdGF0aWNmaWxlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgoK</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
