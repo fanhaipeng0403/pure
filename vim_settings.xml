@@ -25,8 +25,8 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486440748378">
-        <mark key="'" line="46" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486470747833">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="32" column="11" />
         <mark key="]" line="32" column="10" />
         <mark key="." line="32" column="10" />
@@ -176,6 +176,9 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/sites.py" timestamp="1486470464364">
+        <mark key="'" line="343" column="17" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/models.py" timestamp="1486464104056">
         <mark key="[" line="35" column="14" />
         <mark key="]" line="35" column="15" />
@@ -231,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="5" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
-      <jump line="387" column="51" filename="$USER_HOME$/PycharmProjects/Muux/templates/index.html" />
-      <jump line="244" column="1" filename="$USER_HOME$/PycharmProjects/Muux/static/css/login.css" />
       <jump line="346" column="19" filename="$USER_HOME$/PycharmProjects/Muux/static/css/login.css" />
       <jump line="245" column="21" filename="$USER_HOME$/PycharmProjects/Muux/static/css/login.css" />
       <jump line="427" column="19" filename="$USER_HOME$/PycharmProjects/Muux/static/css/login.css" />
@@ -331,6 +331,9 @@
       <jump line="20" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="34" column="11" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
       <jump line="130" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
+      <jump line="343" column="17" filename="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/sites.py" />
+      <jump line="29" column="1" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
