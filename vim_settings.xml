@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/.virtualenvs/Muux/local/lib/python2.7/site-packages/django/utils/six.py" timestamp="1486360956466">
         <mark key="'" line="883" column="4" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1486459257887">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1486460149433">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/__init__.py" timestamp="1486025645531">
         <mark key="[" line="0" column="39" />
@@ -328,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsX2YK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -340,31 +340,31 @@
         <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLm1vZGVscyBpbXBvcnQgQWJzdHJhY3RVc2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsX2YK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZF90aW1lID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoZGVmYXVsdD1kYXRldGltZS5ub3csIHZlcmJvc2VfbmFtZT11Iua3u+WKoOaXtumXtCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWV0YQo=</text>
+        <text encoding="base64">ICAgIGFkZF90aW1lID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoZGVmYXVsdD1kYXRldGltZS5ub3csIHZlcmJvc2VfbmFtZT11Iua3u+WKoOaXtumXtCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAgZGphbmdvLmNvbnRyaWIubWVzc2FnZXMK</text>
+        <text encoding="base64">bWV0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3FsCg==</text>
+        <text encoding="base64">ZnJvbSAgZGphbmdvLmNvbnRyaWIubWVzc2FnZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
+        <text encoding="base64">c3FsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U1RBVElDRklMRVNfRElSUyA9IChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICJzdGF0aWMiKSwpCg==</text>
+        <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICcvc3RhdGljLycpCg==</text>
+        <text encoding="base64">U1RBVElDRklMRVNfRElSUyA9IChvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICJzdGF0aWMiKSwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U1RBVElDX1VSTCA9ICcvc3RhdGljLycK</text>
+        <text encoding="base64">U1RBVElDX1JPT1QgPSBvcy5wYXRoLmpvaW4oQkFTRV9ESVIsICcvc3RhdGljLycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/app/apa</text>
