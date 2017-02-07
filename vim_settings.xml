@@ -5,18 +5,6 @@
       <mark key="M" line="109" column="38" filename="$USER_HOME$/PycharmProjects/Muux/Muux/settings.py" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/apps.py" timestamp="1486025237977">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-      </file>
-      <file name="/Python Console" timestamp="1486440088322">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/Muux/urls.py" timestamp="1486479253801">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="32" column="11" />
@@ -24,90 +12,21 @@
         <mark key="." line="32" column="10" />
         <mark key="^" line="32" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1486480397190">
+      <file name="/a.dummy" timestamp="1486482372451">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/templates/form.html" timestamp="1485695748205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="43" column="6" />
-        <mark key="." line="43" column="6" />
-        <mark key="^" line="43" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/__init__.py" timestamp="1485946518143">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="0" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/models.py" timestamp="1486460149433">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/__init__.py" timestamp="1486025645531">
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="55" />
-        <mark key="^" line="0" column="55" />
-        <mark key="." line="0" column="55" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486463160302">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="42" column="28" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="/manage.py@Muux" timestamp="1486480080396">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/org-list.html" timestamp="1486295510709">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="49" column="62" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1486386265015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/adminx.py" timestamp="1486467438133" />
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/__init__.py" timestamp="1486472083808">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a6160aa-55f3-41d2-a130-9b544767cb16/console.sql" timestamp="1485759620915">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/flask/index.html" timestamp="1483886578917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/login.html" timestamp="1486480511307">
-        <mark key="'" line="92" column="36" />
-        <mark key="[" line="40" column="38" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="40" column="38" />
-        <mark key="^" line="42" column="41" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/mook/apps/message/models.py" timestamp="1485787483766">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/models.py" timestamp="1486453443029">
         <mark key="'" line="8" column="0" />
@@ -127,36 +46,12 @@
         <mark key="]" line="61" column="43" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486481059635">
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/index.html" timestamp="1486481974969">
         <mark key="'" line="595" column="6" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="45" column="88" />
-        <mark key="." line="45" column="88" />
-        <mark key="^" line="45" column="88" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1484586369893">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/apps.py" timestamp="1485946123535">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/courses/models.py" timestamp="1485841530512">
-        <mark key="[" line="13" column="104" />
-        <mark key="]" line="13" column="117" />
-        <mark key="^" line="13" column="117" />
-        <mark key="." line="13" column="117" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/apps.py" timestamp="1486260632230">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="13" />
+        <mark key="[" line="562" column="36" />
+        <mark key="]" line="562" column="46" />
+        <mark key="." line="562" column="46" />
+        <mark key="^" line="562" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/extra_apps/xadmin/sites.py" timestamp="1486470464364">
         <mark key="'" line="343" column="17" />
@@ -167,24 +62,33 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" timestamp="1486458179873" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/views.py" timestamp="1486463160302">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/adminx.py" timestamp="1486467438133" />
+      <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/__init__.py" timestamp="1486472083808">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
+        <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Muux/templates/login.html" timestamp="1486480511307">
+        <mark key="'" line="92" column="36" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="42" column="41" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/organization/apps.py" timestamp="1486471857120">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/models.py" timestamp="1486458179873" />
-      <file name="$USER_HOME$/PycharmProjects/mook/.gitignore" timestamp="1485744655421">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/courses/url.py" timestamp="1486393600732">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="64" />
-        <mark key="^" line="9" column="64" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Muux/apps/userprofile/forms.py" timestamp="1486357334987">
         <mark key="'" line="14" column="7" />
@@ -192,18 +96,6 @@
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Muux/apps/operation/__init__.py" timestamp="1485946540986">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="0" column="37" />
-      </file>
-      <file name="$USER_HOME$/flask/test.py" timestamp="1483957807626">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -310,16 +202,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>3333333</text>
       </register>
       <register name="/" type="4">
         <text>mid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QVVUSF9VU0VSX01PREVMID0gInVzZXJwcm9maWxlLlVzZXJQcm9maWxlIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmwiPjxoMT7nlLXor53vvJoxNTgxMTMzNzEwOTwvaDE+PC9kaXY+Cg==</text>
